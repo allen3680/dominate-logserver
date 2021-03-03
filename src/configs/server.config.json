@@ -1,0 +1,7 @@
+{
+  "port": 8124,
+  "globalPrefix": "/api/v1",
+  "isHttps": false,
+  "sslKey": "",
+  "sslCert": ""
+}

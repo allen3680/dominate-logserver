@@ -1,0 +1,9 @@
+{
+  "filename": "Dominate_%DATE%_{pid}",
+  "dirname": "",
+  "datePattern": "YYYYMMDDHH",
+  "auditFile": "audit.{pid}.json",
+  "maxSize": "50m",
+  "maxFiles": "90d",
+  "extension": ".log"
+}
